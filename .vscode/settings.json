@@ -4,5 +4,10 @@
     },
     "[ruby]": {
         "editor.defaultFormatter": "Shopify.ruby-lsp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#E1FD69",
+        "titleBar.activeBackground": "#FFFFFF",
+        "titleBar.activeForeground": "#FFFFFF"
     }
 }
